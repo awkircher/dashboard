@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="133px" height="140px" viewBox="0 0 133 140" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>A6378C2B-FA46-4388-9CEF-CCABFEE8230C</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="-23" width="1170" height="1171"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="1" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.18 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="1172" height="1173">
+            <rect x="0" y="-24" width="1172" height="1173" fill="white"></rect>
+            <use xlink:href="#path-1" fill="black"></use>
+        </mask>
+        <rect id="path-5" x="-5.68434189e-14" y="0" width="557.511719" height="520"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="1" dy="0" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter3"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter3" result="shadowMatrixOuter3"></feColorMatrix>
+            <feOffset dx="0" dy="-1" in="SourceAlpha" result="shadowOffsetOuter4"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.1 0" type="matrix" in="shadowOffsetOuter4" result="shadowMatrixOuter4"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter3"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter4"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="overview-v1" transform="translate(-672.000000, -724.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Mask">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-1"></use>
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <use stroke-opacity="0.04" stroke="#000000" mask="url(#mask-4)" stroke-width="2" xlink:href="#path-1"></use>
+            </g>
+            <g id="contents" mask="url(#mask-2)">
+                <g transform="translate(128.000000, 91.000000)" id="traffic-sources">
+                    <g transform="translate(506.000000, 554.000000)">
+                        <g id="Rectangle-747-Copy">
+                            <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                            <use fill="#FDFDFD" fill-rule="evenodd" xlink:href="#path-5"></use>
+                        </g>
+                        <g id="traffic-sources-page-views" transform="translate(36.000000, 33.000000)">
+                            <g id="BAR-CHART" transform="translate(68.500000, 115.500000) rotate(-90.000000) translate(-68.500000, -115.500000) translate(0.000000, 51.000000)">
+                                <rect id="Rectangle-42" fill="#5CC4BE" x="0" y="0" width="136.506329" height="16"></rect>
+                                <rect id="Rectangle-42-Copy" fill="#BF69A6" x="0" y="28" width="91.8751187" height="16"></rect>
+                                <rect id="Rectangle-42-Copy-2" fill="#0E82AF" x="0" y="56" width="45.9375594" height="16"></rect>
+                                <rect id="Rectangle-42-Copy-3" fill="#EB8459" x="0" y="84" width="36.7500475" height="16"></rect>
+                                <rect id="Rectangle-42-Copy-4" fill="#EBC659" x="0" y="113" width="27.5625356" height="16"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+            <g id="legend" mask="url(#mask-2)" font-weight="normal" font-family="ProximaNova-Regular, Proxima Nova" line-spacing="17" letter-spacing="0.366791189" font-size="12" fill-opacity="0.599552763">
+                <g transform="translate(166.000000, 744.000000)" id="Label-+-Line-+-Label-+-Line-Copy-42-+-Label-+-Line-Copy-43">
+                    <g>
+                        <g id="Label-+-Line-Copy-43" transform="translate(253.000000, 0.000000)" fill="#000000">
+                            <text id="Range-of-performance">
+                                <tspan x="14" y="11">Range of performance</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
